@@ -1,7 +1,4 @@
 ### Classe 1a INFO
-
-[Codice visto a lezione](https://github.com/EnaipTorino/info1-2024)
-
 1. Adi[](https://github.com/Adi)
 1. [Alessandro](https://github.com/999ale)
 1. [Ariston](https://github.com/ARIZUKA)
