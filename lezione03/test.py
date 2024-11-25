@@ -17,7 +17,6 @@ if risposta == "b":
 if risposta == "c":
     zombie = zombie + 1
 
-
 # Stampo la domanda
 print("Ti piacciono i cervelli?")
 print("a) Sì")
